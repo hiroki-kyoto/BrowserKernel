@@ -1,0 +1,5 @@
+1.fistly write out the GhostFlower.exe -- the browser files
+
+2.secondly code out the install.exe -- the install files
+
+3.package them into a zip file and add a how-to-install tutorial

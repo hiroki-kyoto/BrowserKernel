@@ -1,0 +1,24 @@
+<xml encoding="UTF8">
+<root>
+	<copyright>
+		<author>supershame</author>
+		<time>Sat 06/29/2013</time>
+		<signed>1</signed>
+	</copyright>
+	<state>
+		<!--log the software status-->
+		<istalled>0</installed>
+		<loginedIn>0</loginedIn>
+		<!--if the user is logged in, history is blocked to him or her-->
+	</state>
+	<logDir>log</logDir>
+	<softwareName>GhostFlower</softwareName>
+	<softwareVersion>V1.0</softwareVersion>
+	<installLanguage>English</installLanguage>
+	<passwordRequired>1</passwordRequired>
+	<softwareUser>administrator</softwareUser>
+	<userPassword>12345678</userPassword>
+	<installDir>D:\GhostFlower</installDir>
+	<downloadDir>D:\GhostFlower\Download</downloadDir>
+	<theme>default</theme>
+</root>

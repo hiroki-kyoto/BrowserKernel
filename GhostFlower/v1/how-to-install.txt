@@ -1,0 +1,1 @@
+open install folder, double click the install.exe executable file, then it will start the installation automatically.
